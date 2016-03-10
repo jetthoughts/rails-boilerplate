@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/jetthoughts/rails-boilerplate.png?label=ready&title=Ready)](https://waffle.io/jetthoughts/rails-boilerplate)
 #### Setup
 
 ```
