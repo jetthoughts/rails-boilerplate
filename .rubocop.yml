@@ -35,9 +35,8 @@ Metrics/AbcSize:
     - test/**/*.rb
 
 Style/ClassAndModuleChildren:
-  EnforcedStyle: compact
   Exclude:
-    - 'test/test_helper.rb'
+    - 'test/**/*.rb'
 
 Style/Documentation:
   Enabled: false
